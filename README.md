@@ -26,8 +26,12 @@ Time-Series-Library (https://github.com/thuml/Time-Series-Library)
 If you find this repository useful for your work, please consider citing it as follows:
 
 ```BibTeX
-@inproceedings{
-
+@misc{yang2025dmscdynamicmultiscalecoordination,
+      title={DMSC: Dynamic Multi-Scale Coordination Framework for Time Series Forecasting}, 
+      author={Haonan Yang and Jianchao Tang and Zhuo Li and Long Lan},
+      year={2025},
+      eprint={2508.02753},
+      archivePrefix={arXiv},
 }
 ```
 
